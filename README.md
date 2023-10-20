@@ -12,7 +12,7 @@ CarboCapture est un outil interactif et visuel conçu pour aider les utilisateur
 ## Installation
 
 ### Version Exécutable
-Si vous préférez, une version exécutable est également disponible. Vous pouvez la télécharger ici.
+Si vous préférez, une version exécutable est également disponible. 
 Téléchargez le fichier .exe.
 Double-cliquez sur le fichier pour lancer l'application.
 
